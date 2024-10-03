@@ -16,6 +16,8 @@ $gpa = 3.92;
 
 $age = "Umur: " . $selisih->y . " tahun, " . $selisih->m . " bulan, " . $selisih->d . " hari.";
 
+$isStudent = TRUE;
+
 echo $age;
 
 ?>
